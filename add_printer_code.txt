@@ -1,0 +1,21 @@
+Open HPSmartApp manually and change UI as per shared
+Small_AddPrinterBtn is not worked as well.
+
+
+
+::: Test Case :::: ClickAddPrinter
+[2020-10-09 13:08:51] Windows.Select Application (HP Smart) :: Pass
+[2020-10-09 13:08:51] Sleep(5) :: Pass
+[2020-10-09 13:08:56] Windows.Click ID (Small_AddPrinterBtn) :: Fail
+
+
+::: Test Case :::: ClickAddPrinter
+[2020-10-09 13:09:41] Windows.Select Application (HP Smart) :: Pass
+[2020-10-09 13:09:41] Sleep(5) :: Pass
+[2020-10-09 13:09:46] Windows.Click ID With Keyboard (Small_AddPrinterBtn) :: Pass
+But clicking not happen
+
+::: Test Case :::: ClickAddPrinter
+[2020-10-09 13:11:17] Windows.Select Application (HP Smart) :: Pass
+[2020-10-09 13:11:17] Sleep(5) :: Pass
+[2020-10-09 13:11:22] Windows.Click Name (Small_AddPrinterBtn) :: Fail

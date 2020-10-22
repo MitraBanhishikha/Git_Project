@@ -4,3 +4,8 @@
 [2020-10-09 13:09:41] Sleep(5) :: Pass
 [2020-10-09 13:09:46] Windows.Click ID With Keyboard (Small_AddPrinterBtn) :: Pass
 But clicking not happen
+
+[2020-10-09 13:09:46] Windows.Click ID With Keyboard (Small_AddPrinterBtn) :: Pass
+But clicking not happen
+
+::: Test Case :::: ClickAddPrinter

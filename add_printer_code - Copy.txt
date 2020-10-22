@@ -20,3 +20,4 @@ But clicking not happen
 [2020-10-09 13:11:17] Sleep(5) :: Pass
 [2020-10-09 13:11:22] Windows.Click Name (Small_AddPrinterBtn) :: Fail
 2020-10-09 13:11:22] Windows.Click Name (Small_AddPrinterBtn) :: Fail
+:: Test Case :::: ClickAddPrinter
